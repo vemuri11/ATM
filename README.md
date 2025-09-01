@@ -156,5 +156,3 @@ After login, you’ll see:
 
 
 ✅ This project is a **beginner-friendly banking system simulation**, helpful for learning Python fundamentals such as functions, loops, conditionals, and dictionaries.
-
-Would you like me to also **add a usage diagram (flowchart of how the app works)** in the README for better understanding?
